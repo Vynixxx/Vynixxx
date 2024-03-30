@@ -28,9 +28,9 @@ I'm super thrilled if anyone wants to jump in! If you have additional ideas or w
 
 Whether you have questions or just want to chat, feel free to reach out to me at:
 
-- Email: vynixstudent@proton.me(mailto:vynixstudent@proton.me)
-
-Thanks for coming 😺! I hope you find some cool ideas here.
+- Email: vynixstudent@proton.me
+  
+Thanks for coming 😺! I hope you'll find some cool ideas here.
 
 <!--
 **Vynixxx/Vynixxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
