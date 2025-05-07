@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Cybe
 - Building **web applications** with **Laravel** and optimizing them for SEO and user experience.
 
 ## 🌍 Let's Connect:
-Feel free to open an issue, start a discussion, or fork my repositories. I’m always up for collaborations, especially if it’s related to **cybersecurity**, **AI**, or **web development**.
 - **Email**: [vynixjob@gmail.com](mailto:vynixjob@gmail.com)
 - **LinkedIn**: [linkedin.com/in/thoriq-nadaghoist-suharyadi](https://linkedin.com/in/thoriq-nadaghoist-suharyadi)
 
