@@ -1,48 +1,37 @@
-### Hi there! Vynix here👋
+# Hi there, I'm Thoriq 👋
 
-Welcome to my GitHub! Here, I've gathered various projects, from code snippets to tutorials and some exciting experiments! Feel free to browse around, and don't hesitate to provide feedback or contribute!
+Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Cybersecurity Enthusiast**, currently pursuing my degree in **Information Systems Security** at Politeknik Negeri Bengkalis. I'm always eager to learn and explore new technologies to improve my skills and contribute to open-source projects.
 
-## Projects during my studies
+---
 
-### WebApp Perpustakaan (https://github.com/Vynixxx/webApp-perpustakaanSM4)
-i created a webapp library using codeigniter 4
+## 🔧 Technologies & Tools I Use:
 
-### Lapak Hosting (https://github.com/Vynixxx/LapakHosting-SC)
-I created a web hosting sales project
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### File Sharing Cryptography (https://github.com/Vynixxx/file-sharing-with-cryptography)
-I created a file sharing with cryptography project
+## 🚀 Currently Working On:
+- Developing an **Network Attached Storage** using CasaOS to backup and safe the data.
+- Building an **automated logistic management system** for optimizing delivery routes and cost calculation.
+- Exploring **penetration testing** techniques and enhancing web application security.
+- Building **web applications** with **Laravel** and optimizing them for SEO and user experience.
 
-And there's more of my projects, just click right here to see the others👉 https://github.com/Vynixxx?tab=repositories
+## 🌍 Let's Connect:
+Feel free to open an issue, start a discussion, or fork my repositories. I’m always up for collaborations, especially if it’s related to **cybersecurity**, **AI**, or **web development**.
+- **Email**: [vynixjob@gmail.com](mailto:vynixjob@gmail.com)
+- **LinkedIn**: [linkedin.com/in/thoriq-nadaghoist-suharyadi](https://linkedin.com/in/thoriq-nadaghoist-suharyadi)
 
-## Want to Contribute?
+## ⚡ Fun Facts:
+- I love **open-source contributions** and I'm always looking to collaborate on exciting projects.
+- I have a passion for **networking** and am constantly experimenting with new technologies.
 
-I'm super thrilled if anyone wants to jump in! If you have additional ideas or want to suggest something, here's how you can join:
+---
 
-1. **Fork** this repository.
-2. Create a new **branch** for the feature you want to add or the issue you want to fix.
-3. Commit your changes with clear descriptions.
-4. Submit a **pull request**.
+> "Learning is a treasure that will follow its owner everywhere." - Chinese Proverb
 
-## Got Questions?
+Feel free to explore my repositories, contribute to open-source, or reach out if you'd like to collaborate! 🙌
 
-Whether you have questions or just want to chat, feel free to reach out to me at:
-
-- Email: vynixstudent@proton.me
-  
-Thanks for coming 😺! I hope you'll find some cool ideas here.
-
-<!--
-**Vynixxx/Vynixxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
